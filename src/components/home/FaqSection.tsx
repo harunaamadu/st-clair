@@ -61,7 +61,6 @@ export default function FAQ() {
 
         {/* Accordion — THE FIX: collapsible={true} instead of bare collapsible */}
         <Accordion
-          defaultValue="item-1"
           className="divide-y divide-stone-200 border border-stone-200 rounded-2xl overflow-hidden shadow-sm min-w-full w-150"
         >
           {faqs.map((faq, index) => (
