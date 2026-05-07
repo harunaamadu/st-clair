@@ -1,0 +1,6 @@
+export { default as Hero } from "./Hero"
+export { default as Services } from "./ServicesSection"
+export { default as Pricing } from "./PricingSection"
+export { default as Reviews } from "./ReviewSection"
+export { default as Contact } from "./ContactSection"
+export { default as Faq } from "./FaqSection"
