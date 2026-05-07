@@ -59,7 +59,7 @@ export default function FAQ() {
           </p>
         </div>
 
-        {/* Accordion — THE FIX: collapsible={true} instead of bare collapsible */}
+        {/* Accordion - I will add collapsible later*/}
         <Accordion
           className="divide-y divide-stone-200 border border-stone-200 rounded-2xl overflow-hidden shadow-sm min-w-full w-150"
         >
